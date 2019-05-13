@@ -5,7 +5,7 @@ This is a demo repo for an EKS demo to get wordpress in 4 minutes.
 1. Getting your EKS Cluster options
     - Mgmt Console
     - AWS CLI
-    - [eksctl](https://eksctl.io/)
+    - [eksctl](https://docs.aws.amazon.com/eks/latest/userguide/eksctl.html)
 2. Configure kubectl 
     - [Get kubectl](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html) 
     - [Get aws-iam-authenticator](https://docs.aws.amazon.com/eks/latest/userguide/install-aws-iam-authenticator.html) 
